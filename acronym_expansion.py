@@ -1,5 +1,5 @@
 
-#some parts of this code were copied from https://github.com/NBCLab/abbr/tree/master/abbr and from
+#some parts of this code are copied from https://github.com/NBCLab/abbr/tree/master/abbr and from
 
 import re
 import os, csv
