@@ -18,7 +18,7 @@ Clinical longformer: <a href="https://huggingface.co/yikuan8/Clinical-Longformer
 
 
 # Reference
-For detailed information on this task please check the <a href="">project website</a> and read the paper below.
+For detailed information on this task please check the <a target="_blank" href="https://faith-wm.github.io/autometa_proj.html">project website</a> and read the paper below.
 
 If you use this dataset please cite our paper:
 ```
