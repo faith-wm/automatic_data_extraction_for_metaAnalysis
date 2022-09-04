@@ -8,13 +8,13 @@ The dataset consists of 1011 abstracts annotated using BRAT web annotation tool.
 The dataset can be downloaded freely from this <a href="https://github.com/sociocom/PICO-Corpus">Github repository</a>.
 
 # BERT models
-BioBERT
+BioBERT: <a href="https://github.com/dmis-lab/biobert">https://github.com/dmis-lab/biobert</a>
 
-BlueBERT
+BlueBERT: <a href="https://github.com/ncbi-nlp/bluebert">https://github.com/ncbi-nlp/bluebert</a>
 
-LongFormer
+LongFormer: <a href="https://github.com/allenai/longformer">https://github.com/allenai/longformer</a>
 
-Clinical longformer
+Clinical longformer: <a href="https://huggingface.co/yikuan8/Clinical-Longformer">https://huggingface.co/yikuan8/Clinical-Longformer</a>
 
 
 # Reference
