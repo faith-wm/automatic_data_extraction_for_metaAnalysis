@@ -328,7 +328,6 @@ def model_training (epochs, learning_rate, batch_size,tr_file,te_file,MAX_LEN,mp
   
 
 
-
 bertmodelpath='dmis-lab/biobert-large-cased-v1.1'
 bertmodelname=bertmodelpath.split('/')[-1]
 
@@ -352,10 +351,8 @@ batch=[2]
 lr=[0.00002]
 
 
-
 params=[epochs, batch, lr]
 params_combine=list(itertools.product(*params))
-
 
 params_Set=[ {'epochs':i, 'batch':j,'lr':k} for (i,j,k) in params_combine]
 
@@ -366,16 +363,4 @@ for param_set in params_Set:
     except Exception as e:
         print('****************skipped part: ', param_set),print(e)
         continue
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
